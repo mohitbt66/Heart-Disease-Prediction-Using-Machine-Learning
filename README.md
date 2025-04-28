@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction-Using-Machine-Learning
 
-Heart-Disease-Prediction
+Heart-Disease-Prediction: 
 Heart disease is a leading cause of death globally, highlighting the importance of early detection and intervention. Machine learning offers powerful techniques to analyze medical data and predict health outcomes efficiently. This project aims to develop machine learning models to predict the presence of heart disease based on clinical and demographic factors, supporting faster and more accurate medical decision-making.
 
 In this project, Kaggle's dataset is used. After checking it for errors, we did exploratory data analysis to find out which feature is important in predicting heart disease. Then we did feature engineering so that the models understand the patterns easily. We applied feature scaling to scale the dataset. After scaling, the datasets were divided into two groups for training and testing purposes. Then different machine-learning models were deployed on the training datasets.
